@@ -1,0 +1,32 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "drake_equation"
+            }
+        ],
+        "soundboard": "drake_equation"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "never_seen_hypocrite"
+            }
+        ],
+        "soundboard": "never_seen_hypocrite"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "leonard_len_nerd"
+            }
+        ],
+        "soundboard": "leonard_len_nerd"
+    }
+]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.boxed {
+    background-color: lightgrey;
+    width: auto;
+    padding: 10px;
+    border: 25px solid;
+    margin: 10px;
+}
+.padded{
+	 //padding-top: 25%;
+}
+
+.center-text{
+	text-align:center;
+}
+</style>
+</head>
+<body>
+
+<div class="padded">
+	<div class="boxed">
+		<span>
+			<strong><h1 class="center-text">Help</h1></strong>
+			<p>For text quotes, clicking on a quote will provide you with a list of options to share the quote.</p>
+			<p>And, if you liked the app or have any suggestions, do leave a comment. Thanks.</p>
+		</span>
+	</div>
+</div>
+</body>
+</html>
+

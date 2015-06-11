@@ -1,0 +1,82 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "buses_dont_go"
+            }
+        ],
+        "soundboard": "buses_dont_go"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "knocking_as_the_flash"
+            }
+        ],
+        "soundboard": "knocking_as_the_flash"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "lol_cats"
+            }
+        ],
+        "soundboard": "lol_cats"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "pathetic"
+            }
+        ],
+        "soundboard": "pathetic"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "saturnalia_miracle"
+            }
+        ],
+        "soundboard": "saturnalia_miracle"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "since_rarelyhug"
+            }
+        ],
+        "soundboard": "since_rarelyhug"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "soft_kitty_sound_effect.mp3"
+            }
+        ],
+        "soundboard": "soft_kitty_sound_effect"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "is_that_my_arm.mp3"
+            }
+        ],
+        "soundboard": "is_that_my_arm"
+    }
+]

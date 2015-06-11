@@ -1,0 +1,82 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "drake_equation"
+            }
+        ],
+        "soundboard": "drake_equation"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "really_creepy"
+            }
+        ],
+        "soundboard": "really_creepy"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "horny_engineer"
+            }
+        ],
+        "soundboard": "horny_engineer"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "howard_beatbox"
+            }
+        ],
+        "soundboard": "howard_beatbox"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "ladies_night"
+            }
+        ],
+        "soundboard": "ladies_night"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "sheldon_mitosis.mp3"
+            }
+        ],
+        "soundboard": "sheldon_mitosis"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "i_am_the_swordmaster.mp3"
+            }
+        ],
+        "soundboard": "i_am_the_swordmaster"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "mrs_wolowitz_howard_its_the_phone.mp3"
+            }
+        ],
+        "soundboard": "mrs_wolowitz_howard_its_the_phone"
+    }
+]

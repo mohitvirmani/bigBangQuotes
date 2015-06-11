@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Big Bang Theory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="quote">The Big Bang Theory Quotes</string>
+    <string name="title_activity_fragment_activity1">FragmentActivity1</string>
+    <string name="title_activity_main_fragment">The Big Bang Theory Quotes</string>
+    <string name="title_activity_fragment_activity2">FragmentActivity2</string>
+    <string name="title_activity_fragment_activity3">FragmentActivity3</string>
+    <string name="title_activity_fragment_activity4">FragmentActivity4</string>
+    <string name="title_activity_fragment_activity5">FragmentActivity5</string>
+    <string name="title_activity_fragment_activity6">FragmentActivity6</string>
+    <string name="title_activity_fragment_activity7">FragmentActivity7</string>
+    <string name="title_activity_quote_info_and_share">QuoteInfoAndShare</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string-array name="menus">
+        <item>Home</item>
+        <!-- <item>Soundboard</item> -->
+        <item>About</item>
+        <item>Help</item>
+    </string-array>
+
+    <string name="title_activity_image">The Big Bang Theory Images</string>
+    <string name="title_activity_soundboard">The Soundboard</string>
+    <string name="title_activity_about">About App</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_soundboard_tabbed">The Soundboard</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>

@@ -1,0 +1,531 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Why are you crying?"
+            },
+            {
+                "author": "Penny",
+                "text": "Because I'm stupid."
+            },
+            {
+                "author": "Sheldon",
+                "text": "That's no reason to cry. One cries because one is sad. For example, I cry because others are stupid, and that makes me sad."
+            }
+        ]
+    },
+    {
+        "name": "The Prestidigitation Approximation",
+        "quotes": [
+            {
+                "author": "Penny",
+                "text": "No big deal. Not knowing is part of the fun!"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Not knowing is part of the fun.Was that the motto of your community college?"
+            }
+        ]
+    },
+    {
+        "name": "The Lunar Excitation",
+        "quotes": [
+            {
+                "author": "Zack",
+                "text": "Is that the laser? It's bitchin'."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Yes. In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper 'Zur Quantentheorie der Strahlung', his fondest hope was that the resultant device be bitchin'."
+            }
+        ]
+    },
+    {
+        "name": "The Apology Insufficiency",
+        "quotes": [
+            {
+                "author": "Wolowitz",
+                "text": "But you love that spot."
+            },
+            {
+                "author": "Sheldon",
+                "text": "No, I love my mother. My feelings for my spot are much greater."
+            }
+        ]
+    },
+    {
+        "name": "The Euclid Alternative",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Your check-engine light is on."
+            },
+            {
+                "author": "Penny",
+                "text": "Uh huh."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Typically, that's an indicator to, you know, check your engine."
+            },
+            {
+                "author": "Penny",
+                "text": "It's fine. It's been on for like a month."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Well, actually that would be all the more reason to, you know, check your engine."
+            },
+            {
+                "author": "Penny",
+                "text": "Sheldon, it's fine."
+            },
+            {
+                "author": "Sheldon",
+                "text": "If it were fine, the light wouldn't be on. That's why the manufacturer installed that light, to let you know it's not fine."
+            },
+            {
+                "author": "Penny",
+                "text": "Maybe the light's broken"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Is there a check-the-check-engine-light light?"
+            }
+        ]
+    },
+    {
+        "name": "The Pancake Batter Anomaly",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Soft Kitty, Warm Kitty, Little Ball of Fur. Happy Kitty, Sleepy Kitty, Purr, Purr, Purr."
+            }
+        ]
+    },
+    {
+        "name": "The Justice League Recombination",
+        "quotes": [
+            {
+                "author": "Zack",
+                "text": "You're inferring I'm stupid."
+            },
+            {
+                "author": "Sheldon",
+                "text": "That's not correct. We implied you're stupid, you then inferred it."
+            }
+        ]
+    },
+    {
+        "name": "The Desperation Emanation",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "You know it just occurred to me, if there are an infinite number of parallel universes, in one of them there's probably a Sheldon who doesn't believe parallel universes exist."
+            },
+            {
+                "author": "Leonard",
+                "text": "Probably. What's your point?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "No point. It's just one of those things that makes one of the me's chuckle."
+            }
+        ]
+    },
+    {
+        "name": "The Date Night Variable",
+        "quotes": [
+            {
+                "author": "Amy",
+                "text": "Sheldon, you either say something meaningful and from the heart, or you and I are done."
+            },
+            {
+                "author": "Sheldon",
+                "text": "All right. Please. Amy, when I look in your eyes and you're looking back in mine, everything feels not quite normal. I feel stronger and weaker at the same time. I feel excited and, at the same time, terrified. The truth is, I don't know what I feel, except I know what kind of man I want to be."
+            },
+            {
+                "author": "Amy",
+                "text": "Sheldon, that was beautiful."
+            },
+            {
+                "author": "Sheldon",
+                "text": "I should hope so, that's from the first Spider-Man movie."
+            },
+            {
+                "author": "Amy",
+                "text": "Ill take it."
+            }
+        ]
+    },
+    {
+        "name": "The Codpiece Topology",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Oh Mario ... if only I could control everyone the way I control you ... HOP! YOU LITTLE PLUMBER! HOP! HOP! HOP!"
+            }
+        ]
+    },
+    {
+        "name": "The Maternal Congruence",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "I made tea."
+            },
+            {
+                "author": "Leonard",
+                "text": "I don't want tea."
+            },
+            {
+                "author": "Sheldon",
+                "text": "I didn't make tea for you. This is my tea."
+            },
+            {
+                "author": "Leonard",
+                "text": "Then why are you telling me?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "It's a conversation starter."
+            },
+            {
+                "author": "Leonard",
+                "text": "That's a lousy conversation starter. "
+            },
+            {
+                "author": "Sheldon",
+                "text": "Oh, is it? We're conversing. Checkmate."
+            }
+        ]
+    },
+    {
+        "name": "The Cruciferous Vegetable Amplification",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "At my age do you know how I'm statistically most likely to die?"
+            },
+            {
+                "author": "Leonard",
+                "text": "At the hands of your room mate?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "An accident."
+            },
+            {
+                "author": "Leonard",
+                "text": "That's how I'm going to make it look."
+            }
+        ]
+    },
+    {
+        "name": "The Staircase Implementation",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "This is the temperature you agreed to in the roommate agreement."
+            },
+            {
+                "author": "Leonard",
+                "text": "Aw, screw the roommate agreement!"
+            },
+            {
+                "author": "Sheldon",
+                "text": "No, you don't screw the roommate agreement. The roommate agreement screws you."
+            }
+        ]
+    },
+    {
+        "name": "The Cooper Extraction",
+        "quotes": [
+            {
+                "author": "Amy",
+                "text": "Did you hold the baby?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "I did."
+            },
+            {
+                "author": "Amy",
+                "text": "And how did it make you feel?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Looking into the blank, innocent eyes of a creature that couldn't begin to comprehend anything I was saying ... basically another day at the office."
+            }
+        ]
+    },
+    {
+        "name": "The Robotic Manipulation",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "I am aware of the way humans usually reproduce which is messy, unsanitary and based on living next to you for three years, involves loud and unnecessary appeals to a deity."
+            },
+            {
+                "author": "Penny",
+                "text": "Oh, God."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Yes, exactly."
+            }
+        ]
+    },
+    {
+        "name": "The Nerdvana Annihilation",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Are you upset about something?"
+            },
+            {
+                "author": "Leonard",
+                "text": "What was your first clue?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Well, it was a number of things. First, the late hour, then you demeanor seems very low energy, plus your irritability."
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes, I'm upset! "
+            },
+            {
+                "author": "Sheldon",
+                "text": "Oh. I don't usually pick up on those things. Good for me."
+            },
+            {
+                "author": "Leonard",
+                "text": "Yeah, good for you."
+            },
+            {
+                "author": "Sheldon",
+                "text": "(walks away and then turns back) Oh, wait. Did you want to talk about what's bothering you?"
+            },
+            {
+                "author": "Leonard",
+                "text": "I don't know. Maybe."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Wow! I'm on fire tonight."
+            }
+        ]
+    },
+    {
+        "name": "The Boyfriend Complexity",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "I'd like to go over some proposed changes to the roommate agreement, specifically to address Penny's annoying personal habits."
+            },
+            {
+                "author": "Penny",
+                "text": "Oh my God! What personal habits?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "I have a list. FYI overuse of the phrase 'Oh my God' is number 12."
+            }
+        ]
+    },
+    {
+        "name": "The Jiminy Conjecture",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Howard, you know me to be a very smart man. Don't you think that if I were wrong, I'd know it?"
+            }
+        ]
+    },
+    {
+        "name": "The Panty Pinata Polarization",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Is my hamburger medium-well?"
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Dill slices not sweet?"
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Individual relish packets?"
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Onion rings?"
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Extra-breading?"
+            },
+            {
+                "author": "Leonard",
+                "text": "I asked. "
+            },
+            {
+                "author": "Sheldon",
+                "text": "What did they say?"
+            },
+            {
+                "author": "Leonard",
+                "text": "No"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Did you protest? "
+            },
+            {
+                "author": "Leonard",
+                "text": "Yes"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Vociferously?"
+            },
+            {
+                "author": "Leonard",
+                "text": "No"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Well then what took you so long?"
+            }
+        ]
+    },
+    {
+        "name": "The Alien Parasite Hypothesis",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "You know, in difficult times like this, I often turn to a force stronger than myself."
+            },
+            {
+                "author": "Amy",
+                "text": "Religion?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Star Trek."
+            }
+        ]
+    },
+    {
+        "name": "THE PEANUT REACTION",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Penny, if I'm going to get Leonard a gift, I'm going to do it right. I refuse to let him experience the same childhood trauma I did."
+            },
+            {
+                "author": "Penny",
+                "text": "I know I'm gonna regret this, but what trauma?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "On my 12th birthday, I really wanted a titanium centrifuge so, you know, I could separate radioactive isotopes."
+            },
+            {
+                "author": "Penny",
+                "text": "Of course, yeah."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Instead of a titanium centrifuge, my parents bought me-- Wow, this is hard. They got me a motorized dirt bike."
+            },
+            {
+                "author": "Penny",
+                "text": "No!"
+            },
+            {
+                "author": "Sheldon",
+                "text": "What 12-year-old boy wants a motorized dirt bike?"
+            },
+            {
+                "author": "Penny",
+                "text": "All of them."
+            }
+        ]
+    },
+    {
+        "name": "The Alien Parasite Hypothesis",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "You know, in difficult times like this, I often turn to a force stronger than myself."
+            },
+            {
+                "author": "Amy",
+                "text": "Religion?"
+            },
+            {
+                "author": "Sheldon",
+                "text": "Star Trek."
+            }
+        ]
+    },
+    {
+        "name": "The Griffin Equivalency",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "I'm not insane. My mother had me tested!"
+            }
+        ]
+    },
+     {
+        "name": "The Boyfriend Complexity",
+        "quotes": [
+            {
+                "author": "Leonard",
+                "text": "You'll never guess what just happened."
+            },
+            {
+                "author": "Sheldon",
+                "text": "You went out in the hallway, stumbled into an inter-dimensional portal, which brought you 5,000 years into the future, where you took advantage of the advanced technology to build a time machine, and now you're back, to bring us all with you to the year 7010, where we are transported to work at the think-a-torium by telepathically controlled flying dolphins? "
+            },
+            {
+                "author": "Leonard",
+                "text": "No. Penny kissed me."
+            },
+            {
+                "author": "Sheldon",
+                "text": "Who would ever guess that?"
+            }
+        ]
+    },
+     {
+        "name": "The Lizard-Spock Expansion",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+            }
+        ]
+    }
+]

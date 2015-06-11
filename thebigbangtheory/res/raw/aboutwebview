@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.boxed {
+    background-color: lightgrey;
+    width: auto;
+    padding: 10px;
+    border: 25px solid;
+    margin: 10px;
+}
+.padded{
+	 //padding-top: 25%;
+}
+</style>
+</head>
+<body>
+
+<div class="padded">
+	<div class="boxed">
+		<span>
+			<strong><h2>The Big Bang Theory Quotes</h2></strong>
+			<p>My love for the show made me develop this app and have some fun. Hope you guys will like it.</p>
+			<p>If you would like to help improve this app, suggest any quote/snippet or just wanna say hi,
+			please feel free to email, would love to hear from you.</p>
+		</span>
+		<span>
+		</span>
+	</div>
+</div>
+</body>
+</html>
+

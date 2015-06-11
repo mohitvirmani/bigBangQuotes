@@ -1,0 +1,22 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "theme_song.mp3"
+            }
+        ],
+        "soundboard": "theme_song"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "end_theme"
+            }
+        ],
+        "soundboard": "end_theme"
+    }
+]

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tbbtquotes"
+    android:versionCode="1"
+    android:versionName="0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bbt_badge"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.quote.activities.QuoteHomeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.MainFragment"
+            android:label="@string/title_activity_main_fragment" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity1"
+            android:label="@string/title_activity_fragment_activity1" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity2"
+            android:label="@string/title_activity_fragment_activity2" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity3"
+            android:label="@string/title_activity_fragment_activity3" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity4"
+            android:label="@string/title_activity_fragment_activity4" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity5"
+            android:label="@string/title_activity_fragment_activity5" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity6"
+            android:label="@string/title_activity_fragment_activity6" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.FragmentActivity7"
+            android:label="@string/title_activity_fragment_activity7" >
+        </activity>
+        <activity
+            android:name="com.quote.tabactivities.QuoteInfoAndShare"
+            android:label="@string/title_activity_quote_info_and_share" >
+        </activity>
+        <activity
+            android:name="com.quote.soundboard.SoundboardActivity"
+            android:label="@string/title_activity_soundboard" >
+        </activity>
+        <activity
+            android:name="com.quote.about.AboutActivity"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="com.quote.help.HelpActivity"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name="com.quote.soundboard.SoundboardTabbedActivity"
+            android:label="@string/title_activity_soundboard_tabbed" >
+        </activity>
+    </application>
+
+</manifest>

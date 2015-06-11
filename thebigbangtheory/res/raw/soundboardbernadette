@@ -1,0 +1,22 @@
+[
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "bernadette_im_nice_to_everyone"
+            }
+        ],
+        "soundboard": "bernadette_im_nice_to_everyone"
+    },
+    {
+        "name": "The Gorilla Experiment",
+        "quotes": [
+            {
+                "author": "Sheldon",
+                "text": "fatty_fat_fat.mp3"
+            }
+        ],
+        "soundboard": "fatty_fat_fat.mp3"
+    }
+]
